@@ -1,0 +1,18 @@
+# Required Library for To-Do List Application
+
+To run the To-Do List Application, you need to download and add the following libraries to your project:
+
+1. **MySQL Connector/J (JDBC Driver)**
+
+   - Visit the MySQL Connector/J download page: https://dev.mysql.com/downloads/connector/j/
+   - Select your platform and download the appropriate version.
+   - Extract the downloaded file and add the `mysql-connector-java-<version>.jar` file to your project's `lib` folder.
+
+2. **JDBC Library**
+
+   - You can download the JDBC library from the official website or any other reliable source.
+   - Ensure that the JDBC library `.jar` file is placed in your project's `lib` folder.
+
+## Adding Libraries to Your Project
+
+1. Place the downloaded `.jar` files in the `lib` directory of your project.
